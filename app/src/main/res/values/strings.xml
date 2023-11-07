@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tugas Recycler View</string>
+    <string name="bio_anggur">
+        Anggur adalah buah yang berasal dari tanaman anggur (Vitis vinifera). Buah ini memiliki bentuk bulat atau oval, dengan berbagai warna seperti ungu, merah, hijau, atau kekuningan, tergantung pada jenisnya.
+        Anggur memiliki rasa manis dan segar dengan sedikit rasa asam yang lembut. Kulitnya tipis dan mudah dimakan, meskipun ada biji yang sering dimakan bersama buahnya. Anggur digunakan dalam berbagai produk
+        makanan dan minuman, termasuk anggur segar, anggur kering, jus anggur, dan selai anggur.
+    </string>
+    <string name="bio_buahnaga">
+        Buah naga, juga dikenal dengan nama pitaya, adalah buah yang berasal dari kaktus dari keluarga Cactaceae. Buah ini dikenal karena bentuknya yang unik, dengan kulit yang berduri dan daging buah yang lembut dan berwarna cerah.
+        Ada dua jenis utama buah naga, yaitu buah naga merah dan buah naga putih.
+    </string>
+    <string name="bio_mangga">
+        Buah mangga adalah buah tropis yang dikenal karena rasa manis, dagingnya yang lembut, dan aroma yang khas. Buah mangga sering dimakan secara segar, dipotong-potong dan dimakan langsung, atau digunakan dalam berbagai hidangan dan makanan penutup, seperti salad, jus, sambal mangga, es krim mangga, dan banyak lagi.
+        Mangga juga dapat diolah menjadi saus, selai, atau dikeringkan menjadi mangga kering. Karena rasa dan aroma yang luar biasa, mangga adalah salah satu buah tropis yang paling populer di seluruh dunia.
+    </string>
+    <string name="bio_apel">
+        Apel adalah buah yang dikenal secara luas dan populer di seluruh dunia. Dalam penampilannya, apel biasanya berbentuk bulat atau sedikit oval,
+        dengan berbagai warna yang mencakup merah, hijau, kuning, atau campuran warna-warni, tergantung pada jenis dan varietasnya.
+        Apel memiliki rasa yang umumnya manis dan segar, meskipun ada variasi rasa yang lebih asam dalam beberapa varietas.
+    </string>
+    <string name="bio_semangka">
+        Semangka adalah buah musim panas yang segar dan menggoda, dikenal dengan warna merah muda atau merah, meskipun ada juga varietas dengan kulit hijau. Bentuknya biasanya bulat
+        atau lonjong, dengan ukuran bervariasi dari yang kecil hingga sangat besar. Saat Anda memotongnya, daging buahnya
+        berwarna merah atau merah muda dengan biji hitam yang lembut yang bisa dimakan atau dihilangkan sesuai selera.
+    </string>
+</resources>
